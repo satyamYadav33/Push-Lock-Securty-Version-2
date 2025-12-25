@@ -1,0 +1,7 @@
+{
+  "name": "Push Lock Security",
+  "description": "A professional landing page for Push Lock Security, featuring high-trust design, service overview, and an AI-powered security consultation tool.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
